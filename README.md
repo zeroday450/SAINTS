@@ -2,22 +2,16 @@
 
 Synthetic Autonomous Identity Network for Targeting with Saturation
 
-Modélisation d'une infrastructure d'influence adversariale à topologie distribuée. Pas une implémentation, une formalisation structurelle orientée détection.
+Modélisation d'une infrastructure d'influence adversariale à topologie distribuée.
 
-Topologie non-étoile à nœuds physiquement isolés. Chacun exécute un moteur d'inférence local à profil comportemental différencié. L'isolation découple la cohérence locale de toute dépendance réseau corrélable. Un adversaire avec visibilité sur un nœud ne reconstitue pas le réseau. Pas par chiffrement, par absence de topologie commune.
+Nœuds physiquement isolés. Moteur d'inférence local par nœud, profil comportemental différencié, légende complète. L'isolation n'est pas une mesure de sécurité, c'est ce qui rend la corrélation inter-nœuds structurellement impossible. Un adversaire avec visibilité sur un nœud ne reconstitue pas le réseau.
 
-Les identités maintiennent une légende complète : histoire, vocabulaire stabilisé, rythme d'activité interne. Ce qui résiste à la détection n'est pas la couverture. C'est la cohérence comportementale sur durée longue.
+Les actions sont atomisées en chaînes opaques inter-personas. La reconstruction causale n'est pas bloquée, elle est rendue non-rentable. Les outils d'attribution réseau ne voient pas le problème.
 
-Les actions sont atomisées en chaînes opaques inter-personas. La reconstruction causale n'est pas bloquée, elle est rendue non-rentable par fragmentation sémantique. Les outils d'attribution réseau ne voient pas le problème.
+La saturation est comportementalement calibrée. Pas du bruit, du signal banal à volume suffisant pour passer sous le seuil d'actionnabilité des détecteurs CIB sans déclencher d'alerte.
 
-La saturation est comportementalement calibrée. Face à du bruit cohérent, un détecteur CIB ne peut plus ajuster son seuil. Le SNR passe sous l'actionnabilité sans alerte.
+Orchestration offline. Injection unidirectionnelle. Zéro surface réseau corrélable à l'initiateur.
 
-Orchestration offline. Injection unidirectionnelle depuis nœud air-gappé. Zéro surface réseau corrélable à l'initiateur, par construction, pas par obfuscation.
+Surfaces analytiques, cohérence inter-nœuds sous charge, régularité excessive comme signal paradoxal, coût de saturation croissant avec la durée.
 
-Surfaces analytiques
-
-Cohérence inter-nœuds comme vecteur d'artefact détectable. Coût de maintien de la saturation croissant avec la durée. Régularité excessive des personas comme signal paradoxal.
-
-Limites non résolues
-
-Couche humaine de contrôle non modélisée. Convergence sémantique inter-nœuds sous charge opérationnelle, identifiée, non traitée.
+Limites non résolues, vecteur humain, convergence sémantique inter-nœuds, seuil de ratio fictif/fictif dans le graphe de validation.
