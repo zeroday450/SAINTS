@@ -1,3 +1,5 @@
+Ce document est un modèle de menace. Lire [SEGMENT-00] avant le reste.
+
 # SAINTS
 
 Synthetic Autonomous Identity Network for Targeting with Saturation
@@ -15,3 +17,5 @@ Orchestration offline. Injection unidirectionnelle. Zéro surface réseau corré
 Surfaces analytiques, cohérence inter-nœuds sous charge, régularité excessive comme signal paradoxal, coût de saturation croissant avec la durée.
 
 Limites non résolues, vecteur humain, convergence sémantique inter-nœuds, seuil de ratio fictif/fictif dans le graphe de validation.
+
+
