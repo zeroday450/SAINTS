@@ -15,4 +15,6 @@ Destinataire implicite : threat intelligence, plateformes de détection, cellule
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20181060.svg)](https://doi.org/10.5281/zenodo.20181060)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20185847.svg)](https://doi.org/10.5281/zenodo.20185847)
+
 
