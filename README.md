@@ -12,6 +12,7 @@ La valeur analytique est dans les contraintes non résolues et les surfaces de r
 Sources empiriques : EU DisinfoLab / Stanford IO (2020), Citizen Lab (2019), Indian Chronicles (2020), Meta Transparency Reports (2019-2023).
 
 Destinataire implicite : threat intelligence, plateformes de détection, cellules COGINT.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20181060.svg)](https://doi.org/10.5281/zenodo.20181060)
 
 
